@@ -23,7 +23,7 @@
 
 ### Link sản phẩm:
 ```
-https://funix-ndh.github.io/PRF192x_03_assignment1/flowergarden/
+https://funix-ndh.github.io/PRF192x_03_assignment2/flowergarden/
 
 ```
 
